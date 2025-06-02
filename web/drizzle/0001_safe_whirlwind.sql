@@ -1,0 +1,1 @@
+ALTER TABLE "courses" ADD COLUMN "mux_playback_id" text;
